@@ -1,10 +1,7 @@
-#Eu amo Piri
-
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+# Eu amo Piri
 
 ## Introdução
-
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+Repositório para a entrega 1 da Matéria de Arquitetura e Desenho de Software "FGA0208"
 
 ## Tecnologia
 
