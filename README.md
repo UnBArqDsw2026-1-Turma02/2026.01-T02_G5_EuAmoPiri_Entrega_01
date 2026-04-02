@@ -26,12 +26,12 @@ Repositório para a entrega 1 da Matéria de Arquitetura e Desenho de Software "
       <img src="https://github.com/Samuelvlobo.png" width="100"><br>
       <a href="https://github.com/Samuelvlobo">Samuel</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/annacbrandao.png" width="100"><br>
       <a href="https://github.com/annacbrandao">Anna</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/Chaotzuu.png" width="100"><br>
       <a href="https://github.com/Chaotzuu">Joao Victor</a>
