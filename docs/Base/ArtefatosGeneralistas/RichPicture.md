@@ -9,34 +9,34 @@ Além disso, essa técnica contribui para identificar relações, necessidades, 
 ## Integrantes e suas formas de enxergar o projeto de acordo com o contexto proposto
 
 ### [Milena](https://github.com/milenamso)
-<img width="1666" height="937" alt="image" src="https://github.com/user-attachments/assets/f02054dd-22b2-4a2a-a834-815188b43412" />
+<img src="https://github.com/user-attachments/assets/f02054dd-22b2-4a2a-a834-815188b43412" width="250" />
 
 ### Davi
-<img width="650" height="673" alt="image" src="https://github.com/user-attachments/assets/ab996324-f3f7-4704-b51b-5371edc60021" />
+<img src="https://github.com/user-attachments/assets/ab996324-f3f7-4704-b51b-5371edc60021" width="250" />
 
 ### Leticia
-<img width="1216" height="1284" alt="image" src="https://github.com/user-attachments/assets/f4c446da-7912-4396-a142-20735939afe7" />
+<img src="https://github.com/user-attachments/assets/f4c446da-7912-4396-a142-20735939afe7" width="250" />
 
 ### Samuel
-<img width="1496" height="1044" alt="image" src="https://github.com/user-attachments/assets/33a3d5eb-edf1-45c7-8b1a-a8ed55e48e79" />
+<img src="https://github.com/user-attachments/assets/33a3d5eb-edf1-45c7-8b1a-a8ed55e48e79" width="250" />
 
 ### Anna
-<img width="1600" height="976" alt="image" src="https://github.com/user-attachments/assets/23edddd4-6ddf-4993-a33d-bdbb864270a6" />
+<img src="https://github.com/user-attachments/assets/23edddd4-6ddf-4993-a33d-bdbb864270a6" width="250" />
 
 ### João Victor
-<img width="1423" height="1097" alt="image" src="https://github.com/user-attachments/assets/21816804-7348-4acc-8af2-2bc30fb63681" />
+<img src="https://github.com/user-attachments/assets/21816804-7348-4acc-8af2-2bc30fb63681" width="250" />
 
-### Eduardo 
-<img width="1446" height="1079" alt="image" src="https://github.com/user-attachments/assets/86774d68-0fe6-4d2e-87c1-3e7b71c14de3" />
+### Eduardo
+<img src="https://github.com/user-attachments/assets/86774d68-0fe6-4d2e-87c1-3e7b71c14de3" width="250" />
 
 ### Mariana
-<img width="1210" height="1290" alt="image" src="https://github.com/user-attachments/assets/94fd16d8-4471-4180-a208-a456f4c55c7f" />
+<img src="https://github.com/user-attachments/assets/94fd16d8-4471-4180-a208-a456f4c55c7f" width="250" />
 
 ### Gabriela
-<img width="1050" height="1486" alt="image" src="https://github.com/user-attachments/assets/12122d69-a57a-4155-8996-c71cd3207da5" />
+<img src="https://github.com/user-attachments/assets/12122d69-a57a-4155-8996-c71cd3207da5" width="250" />
 
 ### Amanda
-<img width="1455" height="1073" alt="image" src="https://github.com/user-attachments/assets/e05214d2-dc14-4c44-a08f-acfd3d23732a" />
+<img src="https://github.com/user-attachments/assets/e05214d2-dc14-4c44-a08f-acfd3d23732a" width="250" />
 
 ### Imagens desenvolvidas e inseridas diretamente no MIRO da organização EuAmoPiri
 [Miro do projeto](https://miro.com/app/board/uXjVGq_wkH0=/)
