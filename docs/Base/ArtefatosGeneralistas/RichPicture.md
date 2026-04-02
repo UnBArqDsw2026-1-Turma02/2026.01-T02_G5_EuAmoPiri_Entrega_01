@@ -43,7 +43,7 @@ Além disso, essa técnica contribui para identificar relações, necessidades, 
 
 | Versão | Data       | Descrição                                                                 | Autor(es)                         | 
 | :---:  | :---:      | :---                                                                      | :---                              | 
-| 1.0    | 02/04/2026 | Estruturação da técnica Rich Picture com a colaboração de todos os membros                                    | ### [Milena Marques](https://github.com/milenamso) | 
+| 1.0    | 02/04/2026 | Estruturação da técnica Rich Picture com a colaboração de todos os membros                                    | [Milena Marques](https://github.com/milenamso) | 
 
 
 ## Referências
