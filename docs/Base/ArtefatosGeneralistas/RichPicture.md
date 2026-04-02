@@ -12,7 +12,6 @@ Além disso, essa técnica contribui para identificar relações, necessidades, 
 <img width="1666" height="937" alt="image" src="https://github.com/user-attachments/assets/f02054dd-22b2-4a2a-a834-815188b43412" />
 
 ### Davi
-
 <img width="1186" height="1316" alt="image" src="https://github.com/user-attachments/assets/83dcb70e-c822-4f36-9502-7839ea69c7aa" />
 
 ### Leticia
@@ -39,6 +38,7 @@ Além disso, essa técnica contribui para identificar relações, necessidades, 
 ### Amanda
 <img width="1455" height="1073" alt="image" src="https://github.com/user-attachments/assets/e05214d2-dc14-4c44-a08f-acfd3d23732a" />
 
+### Imagens desenvolvidas e inseridas diretamente no MIRO da organização EuAmoPiri
 [Miro do projeto](https://miro.com/app/board/uXjVGq_wkH0=/)
 
 | Versão | Data       | Descrição                                                                 | Autor(es)                         | 
