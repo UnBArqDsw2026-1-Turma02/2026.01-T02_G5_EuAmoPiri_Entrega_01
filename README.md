@@ -8,7 +8,7 @@ Repositório para a entrega 1 da Matéria de Arquitetura e Desenho de Software "
   <tr>
     <td align="center">
       <img src="https://github.com/Marianamrts.png" width="100"><br>
-      <a href="https://github.com/Marianamrts">Milena</a>
+      <a href="https://github.com/Marianamrts">Mariana</a>
     </td>
     <td align="center">
       <img src="https://github.com/milenamso.png" width="100"><br>
