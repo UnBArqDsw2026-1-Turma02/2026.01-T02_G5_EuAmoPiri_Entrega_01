@@ -11,31 +11,31 @@ Além disso, essa técnica contribui para identificar relações, necessidades, 
 ### [Milena](https://github.com/milenamso)
 <img src="https://github.com/user-attachments/assets/f02054dd-22b2-4a2a-a834-815188b43412" width="250" />
 
-### Davi
+### [Davi](https://github.com/daviegito)
 <img src="https://github.com/user-attachments/assets/ab996324-f3f7-4704-b51b-5371edc60021" width="250" />
 
-### Leticia
+### [Leticia](https://github.com/leticiakrpaiva)
 <img src="https://github.com/user-attachments/assets/f4c446da-7912-4396-a142-20735939afe7" width="250" />
 
-### Samuel
+### [Samuel](https://github.com/Samuelvlobo)
 <img src="https://github.com/user-attachments/assets/33a3d5eb-edf1-45c7-8b1a-a8ed55e48e79" width="250" />
 
-### Anna
+### [Anna](https://github.com/annacbrandao)
 <img src="https://github.com/user-attachments/assets/23edddd4-6ddf-4993-a33d-bdbb864270a6" width="250" />
 
-### João Victor
+### [Joao Victor](https://github.com/Chaotzuu)
 <img src="https://github.com/user-attachments/assets/21816804-7348-4acc-8af2-2bc30fb63681" width="250" />
 
-### Eduardo
+### [Eduardo](https://github.com/eduardodpms)
 <img src="https://github.com/user-attachments/assets/86774d68-0fe6-4d2e-87c1-3e7b71c14de3" width="250" />
 
-### Mariana
+### [Mariana](https://github.com/Samuelvlobo)
 <img src="https://github.com/user-attachments/assets/94fd16d8-4471-4180-a208-a456f4c55c7f" width="250" />
 
-### Gabriela
+### [Gabriela](https://github.com/gabrieladouradof)
 <img src="https://github.com/user-attachments/assets/12122d69-a57a-4155-8996-c71cd3207da5" width="250" />
 
-### Amanda
+### [Amanda](https://github.com/AmandaaMoura)
 <img src="https://github.com/user-attachments/assets/e05214d2-dc14-4c44-a08f-acfd3d23732a" width="250" />
 
 ### Imagens desenvolvidas e inseridas diretamente no MIRO da organização EuAmoPiri
@@ -43,7 +43,7 @@ Além disso, essa técnica contribui para identificar relações, necessidades, 
 
 | Versão | Data       | Descrição                                                                 | Autor(es)                         | 
 | :---:  | :---:      | :---                                                                      | :---                              | 
-| 1.0    | 02/04/2026 | Estruturação da técnica Rich Picture com a colaboração de todos os membros                                    | Milena Marques | 
+| 1.0    | 02/04/2026 | Estruturação da técnica Rich Picture com a colaboração de todos os membros                                    | ### [Milena Marques](https://github.com/milenamso) | 
 
 
 ## Referências
