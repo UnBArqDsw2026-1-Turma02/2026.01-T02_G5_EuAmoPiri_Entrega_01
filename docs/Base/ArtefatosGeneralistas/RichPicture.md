@@ -8,7 +8,7 @@ Além disso, essa técnica contribui para identificar relações, necessidades, 
 
 ## Integrantes e suas formas de enxergar o projeto de acordo com o contexto proposto
 
-### Milena 
+### [Milena](https://github.com/milenamso)
 <img width="1666" height="937" alt="image" src="https://github.com/user-attachments/assets/f02054dd-22b2-4a2a-a834-815188b43412" />
 
 ### Davi
