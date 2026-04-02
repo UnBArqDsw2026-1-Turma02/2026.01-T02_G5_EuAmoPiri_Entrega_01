@@ -2,8 +2,6 @@
 
 ## Contexto da Técnica Rich Picture no Projeto EuAmoPiri
 
-## Contexto da Técnica Rich Picture no Projeto EuAmoPiri
-
 A técnica **Rich Picture** é utilizada para representar visualmente uma situação-problema de forma ampla, considerando não apenas aspectos técnicos, mas também elementos humanos, sociais e organizacionais. Por não seguir uma notação rígida, ela permite uma construção mais livre e adequada às particularidades de cada projeto. No contexto do **EuAmoPiri**, essa técnica é importante para compreender melhor o cenário da plataforma, que tem como objetivo permitir o compartilhamento de experiências sobre Pirenópolis, envolvendo diferentes atores, como turistas, moradores, comerciantes e equipe de desenvolvimento.
 
 Além disso, essa técnica contribui para identificar relações, necessidades, dificuldades e interações entre os envolvidos no projeto. No caso do EuAmoPiri, ele ajuda a representar elementos de estrutura, como usuários, pontos turísticos e estabelecimentos, e elementos de processo, como busca por locais, publicação de experiências, comentários e avaliações. Dessa forma, a técnica funciona como um apoio inicial para organizar ideias, compreender o contexto do projeto de maneira mais completa e servir de base para etapas posteriores de análise e modelagem.
