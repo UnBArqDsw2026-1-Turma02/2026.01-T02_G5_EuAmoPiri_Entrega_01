@@ -41,10 +41,6 @@ Repositório para a entrega 1 da Matéria de Arquitetura e Desenho de Software "
       <a href="https://github.com/eduardodpms">Eduardo</a>
     </td>
     <td align="center">
-      <img src="https://github.com/Samuelvlobo.png" width="100"><br>
-      <a href="https://github.com/Samuelvlobo">Mariana</a>
-    </td>
-    <td align="center">
       <img src="https://github.com/gabrieladouradof.png" width="100"><br>
       <a href="https://github.com/gabrieladouradof">Gabriela</a>
     </td>
