@@ -29,7 +29,7 @@ Além disso, essa técnica contribui para identificar relações, necessidades, 
 ### [Eduardo](https://github.com/eduardodpms)
 <img src="https://github.com/user-attachments/assets/86774d68-0fe6-4d2e-87c1-3e7b71c14de3" width="250" />
 
-### [Mariana](https://github.com/Samuelvlobo)
+### [Mariana](https://github.com/Marianamrts)
 <img src="https://github.com/user-attachments/assets/94fd16d8-4471-4180-a208-a456f4c55c7f" width="250" />
 
 ### [Gabriela](https://github.com/gabrieladouradof)
@@ -43,7 +43,7 @@ Além disso, essa técnica contribui para identificar relações, necessidades, 
 
 | Versão | Data       | Descrição                                                                 | Autor(es) |
 | :---:  | :---:      | :---                                                                      | :---      |
-| 1.0    | 30/03/2026 | Desenvolvimento da proposta EuAmoPiri através dos esboços realizados por todos os membros | [Milena](https://github.com/milenamso)<br>[Davi](https://github.com/daviegito)<br>[Leticia](https://github.com/leticiakrpaiva)<br>[Samuel](https://github.com/Samuelvlobo)<br>[Anna](https://github.com/annacbrandao)<br>[Joao Victor](https://github.com/Chaotzuu)<br>[Eduardo](https://github.com/eduardodpms)<br>[Mariana](https://github.com/Samuelvlobo)<br>[Gabriela](https://github.com/gabrieladouradof)<br>[Amanda](https://github.com/AmandaaMoura) |
+| 1.0    | 30/03/2026 | Desenvolvimento da proposta EuAmoPiri através dos esboços realizados por todos os membros | [Milena](https://github.com/milenamso)<br>[Davi](https://github.com/daviegito)<br>[Leticia](https://github.com/leticiakrpaiva)<br>[Samuel](https://github.com/Samuelvlobo)<br>[Anna](https://github.com/annacbrandao)<br>[Joao Victor](https://github.com/Chaotzuu)<br>[Eduardo](https://github.com/eduardodpms)<br>[Mariana](https://github.com/Marianamrts)<br>[Gabriela](https://github.com/gabrieladouradof)<br>[Amanda](https://github.com/AmandaaMoura) |
 | 1.0    | 02/04/2026 | Estruturação da técnica Rich Picture e organização do repositório | [Milena Marques](https://github.com/milenamso) |
 
 
