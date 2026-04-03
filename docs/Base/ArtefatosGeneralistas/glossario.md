@@ -4,6 +4,7 @@ Este glossário define os termos técnicos, funcionais e culturais utilizados no
 
 ---
 
+<<<<<<< HEAD
 ## Termos do Sistema e Funcionalidades
 
 ### Moradores
@@ -226,6 +227,9 @@ Rio que corta a cidade e é utilizado para lazer e abastecimento.
 **Sinônimos:** curso d’água, rio local, recurso hídrico
 
 ---
+=======
+## Gastronomia e Cultura Local
+>>>>>>> 6b919b1e79014d3190c1d4d03217f4db56869d60
 
 ### Peixe na Telha
 Prato típico regional servido em telha de barro.
@@ -246,12 +250,15 @@ Trecho urbano com bares e restaurantes ao ar livre.
 
 **Sinônimos:** área gastronômica, rua turística, polo gastronômico
 
+<<<<<<< HEAD
 <p align="center">Figura 5: Rua do Lazer</p>   
 
 ![Google Photos](https://lh3.googleusercontent.com/pw/AP1GczP8U_0i4uiEYgFWXx-1zys4WGxhvSm1kk3bny9-0IaxTk25r17-SILUjC5Uy5gz_gHUmDZ2Ss8vJy0y_ne0VcIwgpl3Zc9etZBDzrY2ImEUwYhYXPl_hcNsx9CUBOX5ZYkqqFcwo37O5fO9TjU_UDa9=w677-h902-s-no-gm?authuser=0)
 
 <p align="center">Fonte: de autoria própria</p>
 
+=======
+>>>>>>> 6b919b1e79014d3190c1d4d03217f4db56869d60
 ---
 
 ### Fazenda Babilônia
@@ -287,6 +294,7 @@ Estilo arquitetônico predominante no centro histórico, de influência portugue
 
 **Sinônimos:** arquitetura histórica, estilo colonial, construção tradicional
 
+<<<<<<< HEAD
 <p align="center">Figura 6: Arquitetura colonial portuguesa</p>   
 
 ![Google Photos](https://lh3.googleusercontent.com/pw/AP1GczMzrp2BsNE4y2F9eLypvLHVHSxS8SllpSg6KBsRqIlCQ2GOZdFauh2C0IYMqMC_FCVNqcJ2uUsbhoDuEDofxsev-fgtrJuz1WyxYlm8qjbMxt9ofVy18fB9jj5d7H2Jug69tvPyAu7hv4Kv0r38HK_I=w1203-h902-s-no-gm?authuser=0)
@@ -294,6 +302,9 @@ Estilo arquitetônico predominante no centro histórico, de influência portugue
 <p align="center">Fonte: de autoria própria</p>
 
 --- 
+=======
+---
+>>>>>>> 6b919b1e79014d3190c1d4d03217f4db56869d60
 
 ## Histórico de Versão
 
@@ -309,6 +320,10 @@ Estilo arquitetônico predominante no centro histórico, de influência portugue
 | 1.1.6  | 02/04/2026 | Atualização das referências das figuras                                   | Davi do Egito       |
 | 1.1.7  | 03/04/2026 | Padronização das seções                                                   | Letícia Paiva       |
 
+<<<<<<< HEAD
 
+=======
+---
+>>>>>>> 6b919b1e79014d3190c1d4d03217f4db56869d60
 
 ## Referências
