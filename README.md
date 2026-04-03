@@ -2,6 +2,10 @@
 
 Repositório para a entrega 1 da Matéria de Arquitetura e Desenho de Software "FGA0208"
 
+## Contexto
+
+## Documentação
+
 ## Equipe
 
 <table>
