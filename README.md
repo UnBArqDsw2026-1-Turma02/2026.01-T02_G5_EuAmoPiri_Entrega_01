@@ -1,29 +1,56 @@
 # Eu amo Piri
 
-## Introdução
 Repositório para a entrega 1 da Matéria de Arquitetura e Desenho de Software "FGA0208"
 
-## Tecnologia
+## Contexto
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+## Documentação
 
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
+## Equipe
 
-### Instalando o docsify
-
-Execute o comando:
-
-```shell
-npm i docsify-cli -g
-```
-
-### Executando localmente
-
-Para iniciar o site localmente, utilize o comando:
-
-```shell
-docsify serve ./docs
-```
-Teste
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Marianamrts.png" width="100"><br>
+      <a href="https://github.com/Marianamrts">Mariana</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/milenamso.png" width="100"><br>
+      <a href="https://github.com/milenamso">Milena</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/daviegito.png" width="100"><br>
+      <a href="https://github.com/daviegito">Davi</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/leticiakrpaiva.png" width="100"><br>
+      <a href="https://github.com/leticiakrpaiva">Leticia</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Samuelvlobo.png" width="100"><br>
+      <a href="https://github.com/Samuelvlobo">Samuel</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/annacbrandao.png" width="100"><br>
+      <a href="https://github.com/annacbrandao">Anna</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chaotzuu.png" width="100"><br>
+      <a href="https://github.com/Chaotzuu">Joao Victor</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/EduardoRibeiroXavier.png" width="100"><br>
+      <a href="https://github.com/EduardoRibeiroXavier">Eduardo</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/gabrieladouradof.png" width="100"><br>
+      <a href="https://github.com/gabrieladouradof">Gabriela</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/AmandaaMoura.png" width="100"><br>
+      <a href="https://github.com/AmandaaMoura">Amanda</a>
+    </td>
+  </tr>
+</table>
