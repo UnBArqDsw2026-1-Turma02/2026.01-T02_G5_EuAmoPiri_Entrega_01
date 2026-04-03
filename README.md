@@ -41,8 +41,8 @@ Repositório para a entrega 1 da Matéria de Arquitetura e Desenho de Software "
       <a href="https://github.com/Chaotzuu">Joao Victor</a>
     </td>
     <td align="center">
-      <img src="https://github.com/eduardodpms.png" width="100"><br>
-      <a href="https://github.com/eduardodpms">Eduardo</a>
+      <img src="https://github.com/EduardoRibeiroXavier.png" width="100"><br>
+      <a href="https://github.com/EduardoRibeiroXavier">Eduardo</a>
     </td>
     <td align="center">
       <img src="https://github.com/gabrieladouradof.png" width="100"><br>
