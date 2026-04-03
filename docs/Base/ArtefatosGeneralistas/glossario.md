@@ -4,6 +4,56 @@ Este glossário define os termos técnicos, funcionais e culturais utilizados no
 
 ---
 
+## Termos do Sistema e Funcionalidades
+
+**Moradores:** São pessoas que habitam e/ou possuem um local ou locais turísticos na cidade de Pirenópolis. Logo, como possuidores de pontos turísticos, eles podem colaborar na aplicação publicando seu local turístico para que usuários turistas possam compartilhar seus relatos sobre o seu local e assim, aumentar a visibilidade a partir das avaliações em seus relatos.
+
+**Sinônimos:** empreendedores locais, comerciantes locais, empreendedores da comunidade, microempreendedores
+
+**Turistas:** São pessoas que já visitaram a cidade de Pirenópolis, sendo estas turistas experientes, ou têm viajado para outros lugares, mas não ainda para Piri, elas têm interesse pela cidade e já estão planejando ir conhecer, mas ainda não têm organizado onde irão visitar enquanto estiverem na cidade, sendo estes turistas novatos, dentro do contexto da cidade de Pirenópolis.
+
+	Os usuários turistas experientes têm dicas, conselhos e experiência para compartilhar de suas aventuras na cidade de Pirenópolis, assim compartilham essa vivência nos relatos em cada local que já visitaram na cidade. 
+
+	Os usuários turistas novatos possuem um forte interesse na cidade, mas como nunca foram, leem o relato de turistas mais experientes, que já estiveram pela cidade e podem passar uma visão mais clara e segura do que poderia ser de interesse visitar ou não na cidade.
+
+**Sinônimos:** viajantes, mochileiros, aventureiros, desbravadores, exploradores buscam de vez em quando estar mais perto da natureza.
+
+**Curiosos:** São pessoas que têm planos para viajar para Pirenópolis, mas têm certo interesse em viajar para a cidade e conhecer um dia, mas nada ainda organizado. Consomem conteúdo sobre, gostam de saber sobre o que acontece e lugares interessantes que possam visitar um dia, quando decidirem ir. 
+
+	- Dentro da aplicação, o usuário curioso é um espectador que lê os relatos dos locais e acompanha os rankings dos locais mais bem avaliados dentro da plataforma.
+
+**Sinônimos:** interessados, entusiastas, observador, simpatizante.
+
+**Relatos:** É a experiência em forma de texto de um turista experiente, que já visitou e conheceu a cidade de Piri, e compartilhou sua opinião sobre os locais que passou.
+
+O relato de um turista experiente é a forma mais íntegra de compartilhar com terceiros como foi a experiência sobre um local específico que visitou, sendo ele uma cachoeira, um restaurante ou uma pousada. Ele ajuda turistas novatos a entenderem melhor o local específico e ter mais autonomia ao decidir com mais segurança onde quer ou não ir, a partir de pessoas que já visitaram tal local, e não somente porque estão desinformados.
+
+**Sinônimos:** histórias, posicionamentos, narrativas, opiniões.
+
+**Avaliação (0 a 5 estrelas):** É uma forma mais resumida, e complementar aos relatos de compartilhar sua opinião sobre a experiência que teve em um local específico de Piri utilizando um sistema de classificação em estrelas, assim como é utilizado no Uber, Ifood e etc. Em que 0 estrelas representa uma péssima experiência, e 5 estrelas uma ótima experiência.
+
+**Sinônimos:** apreciação, classificação, opinião.
+
+**Categoria:** É um agrupamento dos locais pelas suas características em comum em prol da facilidade ao pesquisar sobre os locais turísticos em Pirenópolis dentro da aplicação. São divididos em Cachoeiras, Restaurantes e Pousadas, que são os tipos de locais disponíveis no sistema.
+
+**Sinônimos:** tipo, modalidade, classe, grupo.
+
+**Locais:** São pontos turísticos ou de interesse coletivo na cidade de Pirenópolis, que podem ser cadastrados por usuários moradores da cidade, ou advindos da própria api do Google Maps, ou caso não exista ainda a partir de nenhuma das fontes anteriores, o usuário pode realizar o cadastro de um novo local na plataforma, a fim de compartilhar experiências em locais que podem não ser tão conhecidos na internet.
+
+Este é um dado-chave dentro da aplicação, pois é com a presença dele que turistas experientes podem publicar os seus relatos e assim iniciar uma contribuição para o conhecimento de outros interessados na cidade de Piri.
+
+**Sinônimos:** lugar, localidade, área, espaço, região, território.
+
+**Colaborador:** Usuário com permissão para publicar algumas informações dentro da aplicação, além de somente visualizar. Moradores podem publicar novos locais, pelos quais são responsáveis, podendo visualizar relatos sobre seus locais publicados, e usuários turistas podem publicar relatos dos locais que já visitaram em Piri, podendo visualizar de forma privada todos relatos que já escreveu dentro da aplicação.
+
+**Sinônimos:** contribuinte, cooperador, associado.
+
+**Aplicação:** é o meio digital em que toda interação entre os usuários irá acontecer e poderá ser vista por qualquer interessado/curioso na cidade de Pirenópolis. Sendo neste projeto em específico uma aplicação web.
+
+**Sinônimos:** sistema e site.
+
+**Autenticação** Uma forma de verificar e responsabilizar um usuário por suas ações dentro da aplicação, utilizando-se de credenciais únicas para melhor identificação e segurança dos usuários colaboradores. Tem o intuito de evitar mensagens automatizadas, spam e outros conteúdos indesejados  sem a devida responsabilização pela avaliação e que não competem aos objetivos do produto em questão.
+
 ## Categorias e Termos Locais
 
 ### Cachoeiras
