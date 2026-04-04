@@ -20,13 +20,15 @@ Assim, a ferramenta se torna fundamental para assegurar uma análise mais abrang
 
 **Imagens desenvolvidas e inseridas diretamente no MIRO da organização EuAmoPiri**
 
+[Miro do projeto](https://miro.com/app/board/uXjVGq_wkH0=/)
+
 | Versão | Data       | Descrição                                                                 | Autor(es) |
 | :---:  | :---:      | :---                                                                      | :---      |
 | 1.0    | 30/03/2026 | Desenvolvimento do Diagrama pelos membros |<br>[Joao Victor](https://github.com/Chaotzuu)<br>[Eduardo](https://github.com/eduardodpms)<br>[Mariana](https://github.com/Marianamrts) |
 | 1.1    | 02/04/2026 | Organização da aplicação do Diagrama |<br>[Mariana](https://github.com/Marianamrts)|
 | 1.2    | 03/04/2026 | Imagem inserida |<br>[Eduardo](https://github.com/eduardodpms)|
 
-#Referências
+## Referências
 
 SOARES, Vitor. Diagrama de Ishikawa: o que é, para que serve e como usar. 
 Disponível em: https://napratica.org.br/noticias/diagrama-de-ishikawa
