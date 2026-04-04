@@ -1,6 +1,6 @@
 ## Tipo de mudança
 
-Quais tipos de mudança o seu código aplica em <repo_name>?
+Quais tipos de mudança o seu código aplica no repositório?
 _Ponha um `x` nas caixinhas onde isso se aplica_
 
 - [ ] Fix de bug (fix de um problema sem risco de quebrar código)
