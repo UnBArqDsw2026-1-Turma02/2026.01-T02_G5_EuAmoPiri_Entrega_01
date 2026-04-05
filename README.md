@@ -1,7 +1,7 @@
 # Eu amo Piri
 
 <br>
-<img width="400" height="200" alt="❤️ EuAmoPiri" src="https://github.com/user-attachments/assets/b31d17ea-0932-4f89-9d4d-c958ca901351" />
+<img width="400" height="50" alt="❤️ EuAmoPiri" src="https://github.com/user-attachments/assets/b31d17ea-0932-4f89-9d4d-c958ca901351" />
 <br>
 
 ## Contexto
