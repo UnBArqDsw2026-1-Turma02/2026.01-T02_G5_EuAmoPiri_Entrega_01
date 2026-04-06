@@ -4,7 +4,7 @@
 - **Base**
   - [1. Desenho de Software (Base)](Base/1.Base.md)
 
-  - [1.1. Design Sprint](Base/1.1.DesignSprint.md)
+  - [1.1. Design Sprint](Base/DesignSprint/1.1.DesignSprint.md)
     - [1.1.1. Unpack](Base/DesignSprint/1.1.1.Unpack.md)
     - [1.1.2. Sketch](Base/DesignSprint/1.1.2.Sketch.md)
     - [1.1.3. Decision](Base/DesignSprint/1.1.3.Decision.md)
