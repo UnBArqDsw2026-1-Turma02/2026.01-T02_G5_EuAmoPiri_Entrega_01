@@ -15,8 +15,8 @@
     - [1.2.1. 5W2H](Base/ArtefatosGeneralistas/1.2.1.5W2H.md)
     - [1.2.2. Glossário](Base/ArtefatosGeneralistas/1.2.2.glossario.md)
     - [1.2.3. Mapa Mental](Base/ArtefatosGeneralistas/1.2.3.mapaMental.md)
-    - [Rich Picture](Base/ArtefatosGeneralistas/RichPicture.md)
-    - [Diagrama de Ishikawa](Base/ArtefatosGeneralistas/DiagramaIshikawa.md)
+    - [1.2.4. Rich Picture](Base/ArtefatosGeneralistas/RichPicture.md)
+    - [1.2.5. Diagrama de Ishikawa](Base/ArtefatosGeneralistas/DiagramaIshikawa.md)
 
   - [1.3. Modelagem BPMN](Base/BPMN/1.3.ModelagemBPMN.md)
   - [1.4. Participações - Base](Base/1.4.ParticipacoesBase.md)
