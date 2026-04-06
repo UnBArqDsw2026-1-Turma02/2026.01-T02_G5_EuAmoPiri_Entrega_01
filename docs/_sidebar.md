@@ -19,7 +19,7 @@
     - [1.2.5. Diagrama de Ishikawa](Base/ArtefatosGeneralistas/DiagramaIshikawa.md)
 
   - [1.3. Modelagem BPMN](Base/BPMN/1.3.ModelagemBPMN.md)
-  - [1.4. Participações](Base/1.4.Participacoes.md)
+  - [1.4. Participações](Base/1.4.ParticipacoesBase.md)
   - 1.5. Iniciativas Extras
     - 1.5.1. Atas de Reunião
       - [1.5.1.1 Ata de Reunião 1](Base/1.5.1.1.AtaReuniao1.md)
