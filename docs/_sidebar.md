@@ -2,7 +2,7 @@
 - [Projetos](/Projeto/Projeto.md)
 
 - **Base**
-  - [1. Desenho de Software (Base)](Base/1.Base.md)
+  - [1. Desenho de Software](Base/1.Base.md)
   
   - [1.1. Design Sprint](Base/DesignSprint/1.1.DesignSprint.md)
     - [1.1.1. Unpack](Base/DesignSprint/1.1.1.Unpack.md)
@@ -19,8 +19,8 @@
     - [1.2.5. Diagrama de Ishikawa](Base/ArtefatosGeneralistas/DiagramaIshikawa.md)
 
   - [1.3. Modelagem BPMN](Base/BPMN/1.3.ModelagemBPMN.md)
-  - [1.4. Participações - Base](Base/1.4.ParticipacoesBase.md)
-  - [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras.md)
+  - [1.4. Participações](Base/1.4.Participacoes.md)
+  - 1.5. Iniciativas Extras
     - 1.5.1. Atas de Reunião
       - [1.5.1.1 Ata de Reunião 1](Base/1.5.1.1.AtaReuniao1.md)
       - [1.5.1.2 Ata de Reunião 2](Base/1.5.1.2.AtaReuniao2.md)
