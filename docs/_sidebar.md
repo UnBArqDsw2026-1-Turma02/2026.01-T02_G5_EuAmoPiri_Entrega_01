@@ -1,5 +1,5 @@
-- [Home](/docs)
-- [Projetos](/docs/Projeto/Projeto.md)
+- [Home](/)
+- [Projetos](/Projeto/Projeto.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](Base/1.Base.md)
@@ -25,5 +25,5 @@
       - [1.5.1.1 Ata de Reunião 1](Base/1.5.1.1.AtaReuniao1.md)
       - [1.5.1.2 Ata de Reunião 2](Base/1.5.1.2.AtaReuniao2.md)
       - [1.5.1.3 Ata de Reunião 3](Base/1.5.1.3.AtaReuniao3.md)
-    - [1.5.2. Priorização Moscow](Base/1.5.2.PriorizacaoMoscow.md)
-    - [1.5.3. Ferramentas de Organização](Base/1.5.3.FerramentasDeOrganizacao.md)
+    <!-- - [1.5.2. Priorização Moscow](Base/1.5.2.PriorizacaoMoscow.md)
+    - [1.5.3. Ferramentas de Organização](Base/1.5.3.FerramentasDeOrganizacao.md) -->
