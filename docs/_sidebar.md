@@ -21,7 +21,7 @@
   - [1.3. Modelagem BPMN](Base/BPMN/1.3.ModelagemBPMN.md)
   - [1.4. Participações - Base](Base/1.4.ParticipacoesBase.md)
   - [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras.md)
-    - [1.5.1. Atas de Reunião](Base/1.5.1.AtasDeReuniao.md)
+    - 1.5.1. Atas de Reunião
       - [1.5.1.1 Ata de Reunião 1](Base/1.5.1.1.AtaReuniao1.md)
       - [1.5.1.2 Ata de Reunião 2](Base/1.5.1.2.AtaReuniao2.md)
       - [1.5.1.3 Ata de Reunião 3](Base/1.5.1.3.AtaReuniao3.md)
